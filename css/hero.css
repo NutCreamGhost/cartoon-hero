@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+	font-size: 20px;
+	line-height: 30px
+	}
+
+header{
+	background-color: indianred;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px
+}
+
+p.caption{
+	color: #999999; 
+	font-style: italic;
+	margin-top: 0;
+}
+
+h1, h2{
+	font-family: 'Shadows Into Light', cursive;
+}
+
+header h1{
+	color: lightsalmon; 
+	font-size: 50px;
+
+}
+
+header img{
+	border-radius: 700px;
+    width: 330px;
+    border: 30px solid mediumvioletred;
+}
+
+main{
+	max-width: 800px; 
+	margin: 0 auto; 
+	padding: 0 20px; 
+}
+
+main img{
+	max-width: 100%
+}
+
+h2{
+	font-size: 40px;
+	color: rebeccapurple; 
+	margin: 0 auto; 
+}
+
+a{
+	color: steelblue;
+}
+a:hover{
+	color: powderblue; 
+}
+
+footer{
+	background-color: indianred;
+	text-align: center;
+	padding: 50px;  
+}
+
+footer p{
+	margin: 0; 
+}
+
+footer a{
+	color: ghostwhite;
+
+footer a: hover{
+	opacity: .5; 
+	background-color: transparent;
+}
